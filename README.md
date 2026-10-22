@@ -1,30 +1,34 @@
-# SadieTheme
+# SadieTheme 1.2
 
-Android 8.0+ için çevrimdışı duvar kâğıdı ve tema uygulaması.
+Android 8+ için çevrimdışı duvar kâğıdı ve simge paketi.
 
-**[SadieTheme.apk indir](https://github.com/nightmare608/sadietheme/releases/download/v1.0/SadieTheme.apk)** · **[Kaynak kod ZIP](https://github.com/nightmare608/sadietheme/releases/download/v1.0/SadieTheme-Kaynak.zip)**
+**[Ana uygulamayı indir](https://github.com/nightmare608/sadietheme/releases/download/v1.2/SadieTheme.apk)** · **[Yalnızca simge paketini indir](https://github.com/nightmare608/sadietheme/releases/download/v1.2/SadieTheme-Icons.apk)** · **[Kaynak kodu indir](https://github.com/nightmare608/sadietheme/releases/download/v1.2/SadieTheme-Kaynak-1.2.zip)**
 
-## İlk sürüm
+## Yeni güncelleme
 
-- 50 farklı oyuncu ve karakter, 62 duvar kâğıdı.
-- 25 erkek oyuncu ve erkek oyuncular için ayrı filtre.
-- Sadie Sink için 8 görsellik özel koleksiyon.
-- Türkçe, İngilizce, Almanca ve İspanyolca dil seçimi.
-- Arama, favoriler ve canlı tema önizlemesi.
-- Duvar kâğıdından çıkarılan simge renkleri, özel renk seçimi ve üç simge şekli.
-- Yatay/dikey kadraj, ekranı doldurma/sığdırma ve ana/kilit ekranı seçimi.
-- İsteğe bağlı SadieTheme ana ekranı, uygulama çekmecesi ve temalı kısayollar.
+- 194 duvar kâğıdı, 34 kategori/filtre.
+- 20 yeni koleksiyon; her birinde 6 özgün dikey çizim: Dağlar, Ormanlar, Okyanus, Çöl, Gün batımı, Gece, Şehir, Mimari, Botanik, Çiçekler, Geometrik, Dalgalar, Retro, Neon, Pastel, Siyah beyaz, AMOLED, Kâğıt sanatı, Toprak tonları ve Kutup ışıkları.
+- Kategorilerde görsel sayısı ve dört dilde koleksiyon araması.
+- Sadie Sink, oyuncular, karakterler ve anime koleksiyonları.
+- Türkçe, İngilizce, Almanca ve İspanyolca; favoriler, renk paleti ve kadraj ayarları.
+- 22 çizim ve 29 uygulama bileşeni eşlemesi içeren bağımsız simge paketi.
 
 ## Kurulum
 
-APK'yı telefona indirip aç. İlk açılışta dilini ve bir duvar kâğıdını seç; özelleştirmeden sonra **Temayı uygula** düğmesine bas.
+**SadieTheme.apk:** Duvar kâğıtları ve tüm uygulama özellikleri. Önceki sürümün üzerine aynı imzayla kurulabilir; ayarların ve favorilerin korunur.
 
-Simgelerin birlikte değişmesi için Android'in seçim ekranında **SadieTheme** uygulamasını varsayılan ana ekran seç. Nothing Launcher veya başka bir ana ekranı korumak istersen uygulamadan temalı kısayolları tek tek ekleyebilirsin; Android onayı gerekir ve mevcut simgeler değişmez. Önceki ana ekrana **Ayarlar → Varsayılan uygulamalar → Ana ekran** yoluyla dönebilirsin.
+**SadieTheme-Icons.apk:** Yalnızca simge paketi. SadieTheme arayüzünü açmayı veya SadieTheme'i ana ekran seçmeyi gerektirmez. Kurulumdan sonra mevcut başlatıcının **Simge paketi → SadieTheme Simgeler** ayarını seç. Bu APK uygulama çekmecesine simge eklemez ve izin istemez. İki APK bağımsız kullanılabilir.
 
-CMF Phone 1 dahil Android 8+ telefonlar hedeflenmiştir. Derleme/imza doğrulaması ve 84 arayüz kontrolü geçti. Gerçek Android cihazında çalışma henüz doğrulanmadı.
+Simge paketi desteği başlatıcına bağlıdır. Desteklemeyen başlatıcılarda Android diğer uygulamaların simgelerini doğrudan değiştirmeye izin vermez. Paket sabit kahve tonlarını kullanır; özel renk ve şekiller SadieTheme ana ekranı ve temalı kısayollar içindir.
 
-## Kaynaklar ve görseller
+## Doğrulama
 
-Kaynak ZIP uygulama kodunu, görselleri, kataloğu ve yerel derleme betiğini içerir. Fotoğrafçı/lisans/kaynak bilgileri `catalog.json` dosyasında ve uygulamanın tema ayrıntılarındadır. Commons fotoğraflarında belirtilen lisanslar geçerlidir. Tüm görseller 4K değildir; dahil edilen çözünürlük uygulamada gösterilir. Diğer duvar kâğıtları kişisel kullanım için kaynak sitelerden seçilmiştir.
+210 arayüz ve uygulama köprüsü kontrolü geçti. İki APK'nın v2/v3 imzaları doğrulandı. Gerçek Android cihazında başlatıcı uyumluluğu henüz test edilmedi. Ayrıntılar sürüme eklenen doğrulama raporundadır.
 
-SadieTheme bağımsız bir uygulamadır; oyuncular, karakter sahipleri veya markalarla resmi bağlantısı yoktur. İnternet, hesap veya reklam gerektirmez. İmzalama anahtarı kaynak ZIP içinde bulunmaz.
+## Kaynaklar
+
+Kaynak ZIP, uygulama ve simge paketi kodunu, görselleri, kataloğu, üretim betiklerini ve derleme/test araçlarını içerir. İmzalama anahtarı ve parolası dahil değildir; derleme ayarları için ZIP içindeki BUILDING.md dosyasını oku.
+
+132 özgün prosedürel çizim CC0 1.0 lisansıyla sunulur. Diğer görsellerin kaynak ve lisansları catalog.json içinde ve uygulamada yer alır. Tüm görseller 4K değildir; çözünürlükleri ayrıntılarda gösterilir. Commons fotoğraflarının belirtilen lisansları geçerlidir; diğer mevcut görseller kişisel kullanım için kaynak sitelerden seçilmiştir.
+
+SadieTheme bağımsızdır; oyuncular ve markalarla resmi bağlantısı yoktur. Duvar kâğıtları çevrimdışı çalışır. GitHub'daki diğer uygulamalar bağlantısı internet gerektirir.
